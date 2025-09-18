@@ -1,2 +1,1 @@
-# kenocia.github.io
-Inversiones BelCam - KenoCia
+# Inversiones BelCam - KenoCia
